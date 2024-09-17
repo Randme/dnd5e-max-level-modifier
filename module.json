@@ -1,0 +1,24 @@
+{
+  "name": "dnd5e-max-level-modifier",
+  "title": "D&D 5e Max Level Modifier",
+  "description": "A module to modify the maximum level in D&D 5e",
+  "version": "1.0.0",
+  "author": "Ruben",
+  "authors": [
+    {
+      "name": "Ruben",
+      "email": "your.email@example.com",
+      "url": "https://yourwebsite.com"
+    }
+  ],
+  "systems": ["dnd5e"],
+  "scripts": ["scripts/max-level-modifier.js"],
+  "styles": ["styles/max-level-modifier.css"],
+  "packs": [],
+  "url": "https://github.com/yourusername/dnd5e-max-level-modifier",
+  "manifest": "https://raw.githubusercontent.com/yourusername/dnd5e-max-level-modifier/main/module.json",
+  "download": "https://github.com/yourusername/dnd5e-max-level-modifier/archive/v1.0.0.zip",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "10",
+  "changelog": "https://github.com/yourusername/dnd5e-max-level-modifier/releases"
+}
