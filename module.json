@@ -15,9 +15,9 @@
   "scripts": ["scripts/max-level-modifier.js"],
   "styles": ["styles/max-level-modifier.css"],
   "packs": [],
-  "url": "https://github.com/yourusername/dnd5e-max-level-modifier",
-  "manifest": "https://raw.githubusercontent.com/yourusername/dnd5e-max-level-modifier/main/module.json",
-  "download": "https://github.com/yourusername/dnd5e-max-level-modifier/archive/v1.0.0.zip",
+  "url": "https://github.com/Randme/dnd5e-max-level-modifier",
+  "manifest": "https://raw.githubusercontent.com/Randme/dnd5e-max-level-modifier/main/module.json",
+  "download": "https://github.com/Randme/dnd5e-max-level-modifier/archive/v1.0.0.zip",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "10",
   "changelog": "https://github.com/yourusername/dnd5e-max-level-modifier/releases"
