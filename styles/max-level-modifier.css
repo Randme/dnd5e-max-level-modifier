@@ -1,0 +1,10 @@
+/* Example: Style a custom UI element */
+.max-level-indicator {
+  color: #ff0000;
+  font-weight: bold;
+}
+
+/* Example: Highlight character sheet level when at max */
+.dnd5e.sheet .level-value.at-max {
+  background-color: #ffff00;
+}
